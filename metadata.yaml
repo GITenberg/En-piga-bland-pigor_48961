@@ -1,10 +1,16 @@
 _repo: En-piga-bland-pigor_48961
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 48961-h/images/cover-page.jpg
 creator:
   author:
     agent_name: Nordström, Ester Blenda
     gutenberg_agent_id: '45061'
     url: http://www.gutenberg.org/2009/agents/45061
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48961#En-piga-bland-pigor
 gutenberg_issued: '2015-05-15'
 gutenberg_type: Text
 identifiers:
